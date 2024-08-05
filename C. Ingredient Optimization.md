@@ -178,5 +178,3 @@ GROUP BY pt.topping_name;
 
 -  Various new STRING Manipulation Functions like STRING_SPLIT(), STRING_AGG()
 -  The tables provided were not in the format that you can directly fetch the results from. I had to create many new tables, by combining the existing tables, in the desired formats to get the desired results.
-
-***Click [here]() for solution for D. Pricing and Ratings!***

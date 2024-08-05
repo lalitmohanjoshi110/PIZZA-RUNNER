@@ -213,6 +213,3 @@ SELECT * FROM pizza_recipes;
 ***The 2nd Challenge comes to an end here. And I must say, I got to learn so many new things in the process of solving this case study😄!***
 
 ***
-
-***Click [here](https://github.com/PriyaPalak/8-Week-SQL-Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi) to view the solution for 3rd challenge - Foodie fi!***
-

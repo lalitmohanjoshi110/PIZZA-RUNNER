@@ -165,6 +165,3 @@ GROUP BY runner_id;
 * Runner 1 has 100% successful delivery.
 * Runner 2 has 75% successful delivery.
 * Runner 3 has 50% successful delivery.
-
-
-***Click [here](https://github.com/PriyaPalak/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/C.%20Ingredient%20Optimization.md) for Solution for C. Ingredient Optimisation!***

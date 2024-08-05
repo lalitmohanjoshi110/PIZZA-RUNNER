@@ -95,6 +95,3 @@ ALTER COLUMN duration INT;
 ````
 
 - Now, the dataset is ready to go ahead with!
-
-*Click **[here](https://github.com/PriyaPalak/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics%20.md)** for solution to the first section of case study questions on Pizza metrics!*
-
